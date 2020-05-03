@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Project_circle_pixels.dir/main.cpp.o  -o Project_circle_pixels /usr/lib/x86_64-linux-gnu/libsfml-graphics.so /usr/lib/x86_64-linux-gnu/libsfml-system.so /usr/lib/x86_64-linux-gnu/libsfml-window.so -pthread 

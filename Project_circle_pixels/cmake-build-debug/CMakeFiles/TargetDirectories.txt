@@ -1,0 +1,3 @@
+/home/lorenzo/CLionProjects/Project_circle_pixels/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/CLionProjects/Project_circle_pixels/cmake-build-debug/CMakeFiles/Project_circle_pixels.dir
+/home/lorenzo/CLionProjects/Project_circle_pixels/cmake-build-debug/CMakeFiles/edit_cache.dir
